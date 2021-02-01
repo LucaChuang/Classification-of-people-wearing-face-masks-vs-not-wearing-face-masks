@@ -30,6 +30,7 @@ As we can see,
 * As for pre-train model, while there are the same fluctuations as the basic one, the downward continuous trend of last epoches imply that our pre-train model seems to be overfitting. The reason why this happened might be the training accuracy of our model is so high, which is 100%, that the overfitting phenomenon comes out.
 
 **Businees Value**
+
 Now we demonstrate that CNN is really helpful for companies or governments to scan people's faces to know if they are wearing masks. Our model can accelerate scanning process using the power of the computers and can help save much material and human resource.
 
 However, companies and governments ought to think about the balance between accuracy and complexity when they are training models. The higher the accuracy we want, the more time the process will consume due to the complexity. The issue is more problematic when we want to update the model when we find new images or features. Also, the volume of our sample is not as large as the sample in real life companies and governments will use. As the size of the sample enlarges, the computational complexity will rise in geometric or even exponential form, and finally result in "disaster" such as gradient explosion. As a result, the baclance between accuracy and complexity is of essential importance to the users of CNN image classification model.
