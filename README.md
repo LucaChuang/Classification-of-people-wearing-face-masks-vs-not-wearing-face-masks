@@ -1,6 +1,14 @@
 # Classification of people wearing face masks vs not wearing face masks
 
+Author: Team 1
+* 2863031 Yunan Chen
+* 2863088 Shen-Wei Chuang
+* 2868872 Simeng Deng
+* 2854110 Zhuo Chen
+
+## Data source: 
 Images shared files link:
+
 https://drive.google.com/drive/folders/1NcJmq0_Njgq_PWNRgqsV7OBvhlgy9uQW?usp=sharing
 
 ## Literature Review
