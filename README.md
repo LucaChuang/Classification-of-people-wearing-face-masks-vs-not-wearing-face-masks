@@ -1,7 +1,7 @@
 # Classification of people wearing face masks vs not wearing face masks
 
 Images shared files link:
-https://drive.google.com/drive/folders/1sbNrKQUyzkI8SXjlYq2OrDHIAoYQY_St?usp=sharing
+https://drive.google.com/drive/folders/1NcJmq0_Njgq_PWNRgqsV7OBvhlgy9uQW?usp=sharing
 
 ## Literature Review
 
